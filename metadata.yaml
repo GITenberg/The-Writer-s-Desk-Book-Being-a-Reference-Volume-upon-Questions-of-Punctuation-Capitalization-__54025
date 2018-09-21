@@ -1,0 +1,28 @@
+_repo: The-Writer-s-Desk-Book-Being-a-Reference-Volume-upon-Questions-of-Punctuation-Capitalization-__54025
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orcutt, William Dana
+    alias: Orcutt, Wm. Dana (William Dana)
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '6050'
+    url: http://www.gutenberg.org/2009/agents/6050
+description: ''
+gutenberg_issued: '2017-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54025'
+  lccn: '12020803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'English language -- Orthography and spelling'
+- GITenberg
+title: "The Writer's Desk Book\r\nBeing a Reference Volume upon Questions of Punctuation,\
+  \ Capitalization, Spelling, Division of Words, Indention, Spacing, Italics, Abbreviations,\
+  \ Accents, Numerals, Faulty Diction, Letter Writing, Postal Regulations, Etc."
+url: http://www.gutenberg.org/ebooks/54025
